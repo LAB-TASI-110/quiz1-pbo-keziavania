@@ -1,0 +1,13 @@
+Gemini:
+1.
+
+Chat GPT:
+1. sistemnya itu seperti ini: 1. setiap asrama mempunyai jadwal laundry masing masing. 2. lalu mahasiswa membuat list pakaian kotor di sebuah buku. 3. setelah membuat list, mahasiswa memasukkan pakaian kotor ke dalam laundry bag dan mengantarkannya ke depan teras asrama 4. mobil laundry menjemputnya dan mencucinya selama satu hari lamanya. 5. ketika sudah dibersihkan, mobil laundry kembali lagi membawany dalam keadaan bersih dan menaruhnya di teras asrama masing masing.
+2. berikan sebuah code yang sederhana yang menjelaskan keseluruhan sistem tersebut.
+3. coba rapikan kembali code nya
+4. coba gunakan bahasa java jangan bahasa phyton
+5. coba berikan inputan dan output dengan compile berikut
+6. bantu temukan errornya dan berikan solusi untuk mengatasi errornya
+7. mengapa ini dihapus?
+8. tapi untuk membantu soal 1 itu memerlukan itu
+9. ini dihapus aja?
