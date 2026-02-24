@@ -1,0 +1,11 @@
+Gemini:
+1. berikan aku sebuah code yang sederhana dan tidak ribet untuk menjawab soal ini
+2. mengapa hasil outputnya seperti ini?
+3. 
+
+Chat GPT:
+1. berikan solusi untuk menyelesaikan error ini
+2. coba berikan sebuah kode yang sederhana untuk menjawab pertanyaan tersebut, dan sesuaikan dengan compile tersebut juga untuk mengurangi error code tersebut
+3. bantu untuk menyelesaikan error ini dan berikan solusinya jika ada yang salah
+4. tidak bisa dan tidak mengeluarkan output juga, tolong berikan solusinya
+5. 
