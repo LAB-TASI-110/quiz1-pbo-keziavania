@@ -1,0 +1,11 @@
+Gemini:
+1. bisakah kamu menjelaskan secara singkat soal ini?
+2. coba berikan sebuah kode yang sederhana dan ikuti sesuai dengan instruksi yang diberikan.
+3. coba kamu sesuaikan dengan inputan dan output ini, untuk mendapatkan hasil output yang sesuai dengan yang diminta oleh pertanyaan
+4. bagaimana menggunakan compile ini
+
+Chat GPT:
+1. coba kamu berikan sebuah kode yang sederhana dengan mengikuti instruksi inputan yang diinginkan dan sesuaikan juga dengan output yang diminta oleh soal itu, dan sesuaikan juga dengan compile tersebut
+2. dijadikan di satu code aja semua
+3. gunakan compile yang ini
+4. sudah pas kah?
